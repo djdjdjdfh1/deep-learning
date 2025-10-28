@@ -1,2 +1,5 @@
 "/cifar.pth"
 "/cifar_.pth"
+"/data/test"
+"/data/train"
+"*.pth"
