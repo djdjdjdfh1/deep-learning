@@ -2,4 +2,4 @@
 "/cifar_.pth"
 "/data/test"
 "/data/train"
-"*.pth"
+"/cifar-10-python.tar.gz"
