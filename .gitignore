@@ -3,3 +3,4 @@
 "/data/test"
 "/data/train"
 "/cifar-10-python.tar.gz"
+bostonRegression.pth
